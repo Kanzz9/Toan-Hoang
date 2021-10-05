@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/production/test_I2C_Simple.X.production.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>66704</length>                 
+      <used>16012</used>                     
+      <free>50692</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>16384</length>                 
+      <used>827</used>                     
+      <free>15557</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
